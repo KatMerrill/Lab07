@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Lab07</string>
+    <string-array name="quotes_array">
+        <item>\"The best way to predict the future \nis to invent it.\" \n- Alan Kay</item>
+        <item>\"Life is 10% what happens to you,\n and 90% how you react to it.\" \n- Charles R. Swindoll</item>
+        <item>\"What are you going to name your \nchild?\" \"Y!\" \n- Mr. Tra</item>
+    </string-array>
+</resources>
